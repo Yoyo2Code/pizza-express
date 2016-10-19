@@ -34,7 +34,7 @@ jspm_packages
 .npm
 
 # node modules
-.node_modules
+node_modules
 
 # Optional REPL history
 .node_repl_history
